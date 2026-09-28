@@ -1,0 +1,3 @@
+- [x] Build the single Non landing page with reference-led imagery and composition.
+- [x] Add product-true facts, process, FAQ, and final actions.
+- [x] Verify desktop/mobile rendering and interactions.
