@@ -52,7 +52,6 @@
 html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-sans); }
 button, a { -webkit-tap-highlight-color: transparent; }
-a { color: inherit; }
 ::selection { background: var(--band); color: var(--ink); }
 
 /* Non's editorial page vocabulary */
