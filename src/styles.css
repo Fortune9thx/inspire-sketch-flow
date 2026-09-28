@@ -21,6 +21,7 @@
   --color-night-line: var(--night-line);
   --color-night-soft: var(--night-soft);
   --color-light-ink: var(--light-ink);
+  --color-ink: var(--ink);
   --color-card: var(--cream);
   --color-card-foreground: var(--ink);
   --color-popover: var(--paper);
