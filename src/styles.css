@@ -16,6 +16,11 @@
   --color-border: var(--line);
   --color-input: var(--line);
   --color-ring: var(--ink);
+  --color-paper: var(--paper);
+  --color-band: var(--band);
+  --color-night-line: var(--night-line);
+  --color-night-soft: var(--night-soft);
+  --color-light-ink: var(--light-ink);
   --color-card: var(--cream);
   --color-card-foreground: var(--ink);
   --color-popover: var(--paper);
